@@ -1,0 +1,7 @@
+{
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Use Conventional Commits: type(scope): summary. Keep the subject under 72 characters and use imperative mood."
+    }
+  ]
+}

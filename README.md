@@ -8,6 +8,7 @@ A personal library of reusable skills. Each skill lives in its own directory and
 | --- | --- |
 | [gitignore](gitignore/SKILL.md) | Create or update project, user, or system Git ignore rules. |
 | [link-skills](link-skills/SKILL.md) | Link one or all skills from this library into a project's or user's skills directory. |
+| [no-gods-no-masters](no-gods-no-masters/SKILL.md) | Set Git's global initial branch to `main` and guide local or GitHub branch renames. |
 
 ## Adding a skill
 
